@@ -14,4 +14,4 @@ Below there are a few pictures of parts of the prop.
 
 ## Case Enclosure
 
-![Case Enclosure](CaseEnclosure.jpg)
+![Case Enclosure](CaseEnclosure.JPG)
